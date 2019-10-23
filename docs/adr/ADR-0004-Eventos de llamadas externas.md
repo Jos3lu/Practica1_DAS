@@ -1,6 +1,6 @@
 # Eventos de llamadas externas.
 
-* Status: proposed.
+* Status: Proposed.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: [YYYY-MM-DD when the decision was last updated]
 
@@ -11,14 +11,13 @@ Queremos que el sistema recoja las llamadas externas y se puedan gestionar en fo
 
 ## Decision Drivers
 
-* RF002: Sistema de comunicacion.
 * RF002.1: Gestión de llamadas externas.
 
 
 ## Pros and Cons of the Options
 
 ### Pros
-* Al utilizar una arquitectura por eventos gestionar las llamadas externas como un evento aumentara la eficiencia.
+* Al utilizar una arquitectura por eventos la gestión de llamadas externas como eventos aumentara la eficiencia.
 
 
 ### Cons

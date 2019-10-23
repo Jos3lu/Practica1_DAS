@@ -1,20 +1,18 @@
 # Gestion de incidencias.
 
-* Status: proposed.
+* Status: Proposed.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: [YYYY-MM-DD when the decision was last updated]
 
 
 ## Context and Problem Statement
 
-Queremos diseñar un sistema de gestion de incidencias que permita almacenar las incidencias, crear incidencia al recibir llamadas entrantes y solicitar informacion o notificar mediante llamadas externas.
+Queremos diseñar un sistema de gestión de incidencias que permita almacenar las incidencias, crear incidencias al recibir llamadas entrantes y solicitar información o notificar mediante llamadas externas.
 
 ## Decision Drivers
 
-* RF002: Sistema de comunicacion.
-* RF002.1: Gestión de llamadas externas.
+* RF002: Sistema de comunicación.
 * RF002.2: Gestión de incidencias internas del sistema.
-* RF002.3: Gestión de llamadas entrantes.
 
 
 ## Considered Options
@@ -22,15 +20,15 @@ Queremos diseñar un sistema de gestion de incidencias que permita almacenar las
 
 ## Decision Outcome
 
-Chosen option: "[option 1]", because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | … | comes out best (see below)].
+Al generar las incidencias al recibir eventos el sistema reponderá de forma rápida y eficiente.
 
 
 ## Pros and Cons of the Options
 
 ### Pros
 
-*
-
+* La gestión de incidencias, al ser una arquitectura por eventos será más eficiente y rápida.
+* Permite tener un mayor control del sistema.
 
 ### Cons
 

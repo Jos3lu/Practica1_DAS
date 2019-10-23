@@ -1,6 +1,6 @@
 # Arquitectura principal por eventos.
 
-* Status: proposed.
+* Status: Proposed.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: [YYYY-MM-DD when the decision was last updated]
 
@@ -11,10 +11,10 @@ Queremos diseñar un sistema de emergencias, que permita gestionar diferentes al
 
 ## Decision Drivers
 
-* RF006: Informacion en tiempo real.
-* RF002: Sistema de comunicacion.
-* RF013: Priorizacion de eventos.
-* RF017.1: Generacion de noticias.
+* RF006: Información en tiempo real.
+* RF002: Sistema de comunicación.
+* RF013: Priorización de eventos.
+* RF017.1: Generación de noticias.
 
 
 ## Considered Options
@@ -25,13 +25,12 @@ Queremos diseñar un sistema de emergencias, que permita gestionar diferentes al
 
 ## Decision Outcome
 
-Chosen option: "[option 1]", because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | … | comes out best (see below)].
-
+Al emplear un estilo por eventos el sistema podrá responder a los cambios de forma eficiente y adaptarse a estos.
 
 ## Pros and Cons of the Options
 
 ### Pros
-* La arquitectura por eventos permite detectar y gestionar de forma muy rapida situaciones de cambio en el sistema.
+* La arquitectura por eventos permite detectar y gestionar de forma muy rápida situaciones de cambio en el sistema.
 * Esta arquitectura permite que el sistema se adapte muy facilmete a los cambios.
 * Su bajo acoplamiento.
 

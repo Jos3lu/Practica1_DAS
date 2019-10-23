@@ -1,6 +1,6 @@
 # Eventos de llamadas entrantes.
 
-* Status: proposed.
+* Status: Proposed.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: [YYYY-MM-DD when the decision was last updated]
 
@@ -11,14 +11,13 @@ Queremos que el sistema recoja las llamadas entrantes y se puedan gestionar en f
 
 ## Decision Drivers
 
-* RF002: Sistema de comunicacion.
 * RF002.3: Gestión de llamadas entrantes.
 
 
 ## Pros and Cons of the Options
 
 ### Pros
-* Al utilizar una arquitectura por eventos gestionar las llamadas entrantes como un evento aumentara la eficiencia.
+* Al utilizar una arquitectura por eventos la gestión de llamadas entrantes como eventos aumentara la eficiencia.
 
 
 ### Cons

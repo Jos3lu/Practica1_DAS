@@ -1,6 +1,6 @@
 # Arquitectura principal MVC.
 
-* Status: proposed.
+* Status: Proposed.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: [YYYY-MM-DD when the decision was last updated]
 
@@ -11,10 +11,10 @@ Queremos diseñar un sistema de emergencias, que permita gestionar diferentes al
 
 ## Decision Drivers
 
-* RF006: Informacion en tiempo real.
-* RF002: Sistema de comunicacion.
-* RF013: Priorizacion de eventos.
-* RF017.1: Generacion de noticias.
+* RF006: Información en tiempo real.
+* RF002: Sistema de comunicación.
+* RF013: Priorización de eventos.
+* RF017.1: Generación de noticias.
 
 
 ## Pros and Cons of the Options
@@ -22,7 +22,7 @@ Queremos diseñar un sistema de emergencias, que permita gestionar diferentes al
 ### Pros
 * La arquitectura MVC destaca por su bajo acoplamiento.
 * Esta arquitectura soporta tratamiento de eventos.
-* Es muy adecuada para la interaccion con usuarios.
+* Es muy adecuada para la interacción con usuarios.
 
 
 ### Cons
