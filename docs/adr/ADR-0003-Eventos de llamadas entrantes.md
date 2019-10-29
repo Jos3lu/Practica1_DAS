@@ -2,7 +2,7 @@
 
 * Status: Proposed.
 * Deciders: Diego Montoto, Guillermo Martín.
-* Date: [YYYY-MM-DD when the decision was last updated]
+* Date: 2019-10-29
 
 
 ## Context and Problem Statement

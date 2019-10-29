@@ -2,12 +2,12 @@
 
 * Status: Proposed.
 * Deciders: Diego Montoto, Guillermo Martín.
-* Date: [YYYY-MM-DD when the decision was last updated]
+* Date: 2019-10-29
 
 
 ## Context and Problem Statement
 
-Queremos diseñar un sistema de gestión de incidencias que permita almacenar las incidencias, crear incidencias al recibir llamadas entrantes y solicitar información o notificar mediante llamadas externas.
+Queremos diseñar un sistema de gestión de incidencias que permita a los operarios de emergencias almacenar las incidencias en una base de datos, crear incidencias al recibir llamadas entrantes y solicitar información o notificar mediante llamadas externas.
 
 ## Decision Drivers
 
@@ -27,8 +27,9 @@ Al generar las incidencias al recibir eventos el sistema reponderá de forma rá
 
 ### Pros
 
-* La gestión de incidencias, al ser una arquitectura por eventos será más eficiente y rápida.
-* Permite tener un mayor control del sistema.
+* Al emplear una arquitectura por eventos como la arquitectura principal de la aplicación, las llamadas entrantes y externas deben tratarse como evntos para que el sistema pueda generar las incidencias de 
+  al detectar dichas llamadas 
+* Dado que el sistema genera las incidencias al recibir el evento de llamada pueden dedicarse los recursos fisicos a otras funciones mientras no se reciben llamadas 
 
 ### Cons
 
