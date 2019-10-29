@@ -1,6 +1,6 @@
 # Arquitectura principal por eventos.
 
-* Status: Proposed.
+* Status: Discused.
 * Deciders: Noelia Martínez Sánchez, Óscar Rivas Melar.
 * Date: 2019-10-29
 
