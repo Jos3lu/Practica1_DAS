@@ -2,7 +2,7 @@
 
 * Status: Proposed.
 * Deciders: Diego Montoto, Guillermo Martín.
-* Date: 2019-10-29
+* Date: 2019-10-30
 
 
 ## Context and Problem Statement
@@ -21,6 +21,9 @@ Queremos que el sistema recoja las llamadas externas y se puedan gestionar en fo
 
 
 ### Cons
+
+### Note
+* Los ASC están de acuerdo en que esta decisión se apruebe.
 
 
 
