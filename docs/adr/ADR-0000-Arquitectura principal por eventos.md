@@ -1,8 +1,8 @@
 # Arquitectura principal por eventos.
 
-* Status: Proposed.
+* Status: Accepted.
 * Deciders: Diego Montoto, Guillermo Martín.
-* Date: [YYYY-MM-DD when the decision was last updated]
+* Date: 2019-10-29
 
 
 ## Context and Problem Statement
@@ -30,12 +30,13 @@ Al emplear un estilo por eventos el sistema podrá responder a los cambios de fo
 ## Pros and Cons of the Options
 
 ### Pros
-* La arquitectura por eventos permite detectar y gestionar de forma muy rápida situaciones de cambio en el sistema.
-* Esta arquitectura permite que el sistema se adapte muy facilmete a los cambios.
-* Su bajo acoplamiento.
+* La arquitectura por eventos permite al sistema detectar, adaptarse y gestionar de forma muy rápida las situaciones de emergencia, la información recibida de los sensores, 
+  llamadas entrantes y comunicaciones internacionales.
+* Al ser un sistema modular el bajo acoplamiento que proporciona la arquitectura por eventos es fundamental.
 
 
 ### Cons
 
 
 ## Links 
+* [ADR-0007]-(0007-Sistema modular.md).

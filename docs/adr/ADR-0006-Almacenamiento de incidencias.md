@@ -24,7 +24,8 @@ https://www.oracle.com/es/database/
 
 ## Decision Outcome
 
-Al generar las incidencias al recibir eventos el sistema reponderá de forma rápida y eficiente.
+Al almacenar las incidencias en una base de datos de oracle contaremos con un sistema autogestionado y autorreparable con un servicio técnico de 
+calidad.
 
 
 ## Pros and Cons of the Options
