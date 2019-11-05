@@ -2,7 +2,6 @@
 
 * Status: Rejected.
 * Deciders: Diego Montoto, Guillermo Martín.
-* Date: [YYYY-MM-DD when the decision was last updated]
 
 
 ## Context and Problem Statement
