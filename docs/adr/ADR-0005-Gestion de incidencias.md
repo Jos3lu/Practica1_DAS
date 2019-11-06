@@ -1,6 +1,6 @@
 # Gestion de incidencias.
 
-* Status: Proposed.
+* Status: Rejected.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-10-29
 
@@ -38,3 +38,4 @@ Al generar las incidencias al recibir eventos el sistema reponderá de forma rá
 
 * [ADR-0003]-(0003-Eventos de llamadas entrantes.md).
 * [ADR-0004]-(0004-Eventos de llamadas externas.md).
+* [ASC-ADR-0005]- Problemas encontrados por los ASC durante el Reflection Time de la Iteración 2
