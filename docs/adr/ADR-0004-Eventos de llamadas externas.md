@@ -1,12 +1,13 @@
-# Eventos de llamadas externas.
+# Eventos de llamadas externas (o salientes).
 
-* Status: Proposed.
+* Status: Accepted.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-10-30
 
 
 ## Context and Problem Statement
 
+Las llamadas externas o salientes son aquellas cuyo emisor es el SCE.
 Queremos que el sistema recoja las llamadas externas y se puedan gestionar en forma de eventos.
 
 ## Decision Drivers
@@ -17,7 +18,7 @@ Queremos que el sistema recoja las llamadas externas y se puedan gestionar en fo
 ## Pros and Cons of the Options
 
 ### Pros
-* Al utilizar una arquitectura por eventos la gestión de llamadas externas como eventos aumentara la eficiencia.
+* Al utilizar una arquitectura por eventos la gestión de llamadas externas como eventos aumentará la eficiencia.
 
 
 ### Cons
