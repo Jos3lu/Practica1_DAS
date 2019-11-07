@@ -1,6 +1,6 @@
 # ADR-0009 - Sistema de gestión de emergencias (SE)
 
-* Status: Proposed.
+* Status: Accepted.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-11-07
 
@@ -24,7 +24,7 @@ El sistema contará con un sistema de gestión de emergencias (SE) independiente
 Este sistema de gestión de emergencias contará con los siguientes subsistemas:
 * Subsistema de detección: encargado de detectar las situaciones inesperadas y llamadas entrantes y generar la emergencia correspondiente.
 * Subsistema de asignación de recursos: asignará los recursos pertinentes para cada emergencia (ambulancias, helicópteros, etc)
-* Subsistema de llamadas salientes.
+* Subsistema de llamadas salientes (incluidas llamadas internacionales).
 
 ## Pros and Cons of the Options
 
