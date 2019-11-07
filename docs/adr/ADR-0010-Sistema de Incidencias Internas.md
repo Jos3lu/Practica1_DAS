@@ -1,4 +1,4 @@
-# Sistema de Incidencias Internas (SI)
+# Sistema de gestión de Incidencias Internas (SI)
 
 * Status: Proposed.
 * Deciders: Diego Montoto, Guillermo Martín.
