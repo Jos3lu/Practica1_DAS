@@ -36,6 +36,10 @@ Este sistema de gestión de emergencias contará con los siguientes subsistemas:
 
 ### Cons
 
+### Note
+
+* A los ASC nos parece adecuada esta división del Sistema de Emergencias y creemos que se debe aceptar la decisión, aunque no se especifica dónde se integran las llamadas internacionales.
+
 ## Links 
 * [ADR-0008] - (0008-Gestión de incidencias internas y gestión de emergencias.md)
 * [ADR-0007] - (0007-Sistema Modular.md).
