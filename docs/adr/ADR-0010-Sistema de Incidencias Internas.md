@@ -1,6 +1,6 @@
 # Sistema de gestión de Incidencias Internas (SI)
 
-* Status: Proposed.
+* Status: Accepted.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-11-7
 
@@ -20,7 +20,8 @@ Queremos diseñar un sistema que detecte y gestione incidencias que puedan ocurr
 Las Incidencias internas que sucedan, se registrarán con:
 * Un identificador.
 * Una categoría (incendio, avería, inundación, otro).
-* Una descripción textual de la emergencia.
+* Estado (detected, in progress, solved).
+* Nivel de gravedad de la incidencia.
 * La localización.
 * La fecha en la que se detectó.
 
@@ -36,8 +37,11 @@ El Sistema de Incidencias se encargará de registrar, gestionar y monitorizar es
 
 ### Cons
 
+### Note
+
+* Se ha cambiando la información que se registrará de cada incidencia teniendo en cuenta las consideraciones realizadas por los ASC.
 
 ## Links
 
 * [ADR-0008]-(0008-Gestión de incidencias internas y gestión de emergencias.md).
-
+* [ASC-ADR-0010] - Consideraciones realizadas por los ASC en Time in refined de la Iteración 3.
