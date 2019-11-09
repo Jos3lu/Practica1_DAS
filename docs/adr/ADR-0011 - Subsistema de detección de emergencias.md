@@ -1,4 +1,4 @@
-# ADR-0011 - Subsistema de detección de emergencias
+# ADR-0011-Subsistema de detección de emergencias
 
 * Status: Proposed.
 * Deciders: Diego Montoto, Guillermo Martín.
