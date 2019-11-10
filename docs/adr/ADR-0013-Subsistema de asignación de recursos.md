@@ -7,7 +7,7 @@
 
 * El Sistema de Emergencias (SE) necesita disponer de un mecanismo de asignación y monitorización de recursos para tratar las emergencias activas. 
 
-* Los usuarios operarios de emergencias, que se encuentran en el Centro de Emergencias, son los que reciben la información en tiempo real, y monitorizan y asignan recursos (elementos activos de emergencia como ambulancias, bomberos, policías…). 
+* Los asignadores de recursos, que se encuentran en el Centro de Emergencias, son los que reciben la información en tiempo real, y monitorizan y asignan recursos (elementos activos de emergencia como ambulancias, bomberos, policías…). 
 
 * Los operarios de unidades activas reciben esta información en sus smartphones y tablets en tiempo real. 
 
@@ -15,8 +15,8 @@
 
 * RF002.3: Gestión de llamadas entrantes.
 * RF003: Monitorizar recursos.
-* RF005.2: Operarios de emergencias.
 * RF005.3: Operarios de unidades activas.
+* RF005.4: Asignadores de recursos.
 * RF014: Pre-asignar unidades activas.
 
 ## Decision Outcome
@@ -25,7 +25,7 @@
 
 * Las emergencias que se monitorizan son las que se registran previamente por el Subsistema de Detección. 
 
-* Los operarios de emergencias pueden asignar y monitorizar el estado de la emergencia y sus recursos asignados. 
+* Los asignadores de recursos pueden asignar y monitorizar el estado de la emergencia y sus recursos asignados. 
 
 * Los operarios de unidades activas reciben la asignación de recursos.
 
@@ -40,12 +40,9 @@
 
 ### Cons
 
-## Note
-
-* Los ASC consideran que la decisión debería ser aceptada.
 
 ## Links 
 * [ADR-0009] - (0009-Sistema de gestión de Emergencias.md)
 * [ADR-0011] - (0011-Subsistema de detección de emergencias.md)
 * [ADR-0012] - (0012-Subsistema de llamadas externas (salientes).md)
-
+* [ASC-ADR-0013] - Problemas encontrados por los ASC en Reflection Time Iteración 4
