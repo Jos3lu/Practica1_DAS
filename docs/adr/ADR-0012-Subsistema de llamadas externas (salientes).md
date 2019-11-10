@@ -1,6 +1,6 @@
 # Subsistema de llamadas externas (salientes)
 
-* Status: Proposed.
+* Status: Accepted.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-11-09
 
