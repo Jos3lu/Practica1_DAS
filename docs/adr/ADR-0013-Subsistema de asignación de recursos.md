@@ -1,5 +1,5 @@
 # Subsistema de asignación de recursos
-* Status: Proposed.
+* Status: Accepted.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-11-09
 
@@ -35,9 +35,14 @@
 
 ### Pros
 
-* Este subsistema permitirá al SCE detectar y registrar de manera eficaz las emergencias que se notifiquen a través de una llamada o de un sensor.
+* Este subsistema permitirá al SCE gestionar, controlar y monitorizar los recursos disponibles para hacer frente a las emergencias.
+* Este subsistema está correctamente coordinado con el Subsistema de Asignación de Recursos.
 
 ### Cons
+
+## Note
+
+* Los ASC consideran que la decisión debería ser aceptada.
 
 ## Links 
 * [ADR-0009] - (0009-Sistema de gestión de Emergencias.md)
