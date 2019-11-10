@@ -36,7 +36,7 @@
 ### Pros
 
 * Este subsistema permitirá al SCE gestionar, controlar y monitorizar los recursos disponibles para hacer frente a las emergencias.
-* Este subsistema está correctamente coordinado con el Subsistema de Asignación de Recursos.
+* Este subsistema está correctamente coordinado con el Subsistema de Detección.
 
 ### Cons
 
