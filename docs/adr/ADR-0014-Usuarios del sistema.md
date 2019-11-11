@@ -32,6 +32,9 @@ Se necesita definir qué funciones y permisos tiene cada usuario.
 ### Cons
 * Que existan distintos tipos de usuario obliga a crear una interfaz diferente para cada uno y dificulta la escalabilidad.
 
+## Note
+* Los ASC sugieren que se apruebe esta decisión.
+
 ## Links
 
 * [ADR-0011]-(0011-Subsistema de detección de emergencias.md)
