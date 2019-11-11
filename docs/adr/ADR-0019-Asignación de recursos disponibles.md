@@ -1,13 +1,13 @@
 # Funcionamiento de la asignación de recursos disponibles
 
-* Status: Proposed.
+* Status: Discused.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-11-11
 
 
 ## Context and Problem Statement
 * El subsistema de asignación de recursos necesita disponer de medios para pre-asignar unidades activas disponibles a una emergencia.
-* Las emergencias necesitan ser priorizadas (el cliente no ha especificado cómo), pudiendo habber como máximo 20 activas de manera simultánea.
+* Las emergencias necesitan ser priorizadas (el cliente no ha especificado cómo), pudiendo haber como máximo 20 activas de manera simultánea.
 * Los asignadores de recursos pueden asignar operarios de unidades activas para atender una emergencia.
 * Se necesita un algoritmo de optimización de ruta que puede ser utilizado al pre-asignar y por los operarios de emergencias al asignar recursos a una emergencia.
 
@@ -33,8 +33,10 @@ Ejemplo de funcionamiento: un incendio pasa a ser una de las 20 emergencias acti
 * La selección de unidades activas se realiza de manera automática y óptima (se eligen automáticamente las unidades activas disponibles más cercanas al foco de la emergencia).
 
 ### Cons
-* Se necesita un algoritmo de optimización eficiente, lo que puede derivar en un incremento en los costes del sistema. 
+* Se necesita un algoritmo de optimización eficiente.
 
+## Note
+* Los ASC sugieren que se acepte esta propuesta, aunque han notado que falta explicitar cómo se va a gestionar el sistema las emergencias a la espera de ser atendidas.
 
 ## Links
 
