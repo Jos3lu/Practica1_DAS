@@ -33,5 +33,5 @@ A partir de estas comunicaciones se crean y actualizan emergencias.
 ## Links
 
 * [ADR-0011]-(0011-Subsistema de detección de emergencias.md)
-* [ADR-0013]-(0011-Subsistema de asignación de recursos.md)
-* [ADR-0014]-(0011-Usuarios del sistema.md)
+* [ADR-0013]-(0013-Subsistema de asignación de recursos.md)
+* [ADR-0014]-(0014-Usuarios del sistema.md)
