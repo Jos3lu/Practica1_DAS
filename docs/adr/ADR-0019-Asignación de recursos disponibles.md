@@ -1,6 +1,6 @@
 # Funcionamiento de la asignación de recursos disponibles
 
-* Status: Discused.
+* Status: Accepted.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-11-11
 
@@ -23,6 +23,7 @@
 * Habrá un mecanismo para pre-asignar recursos a una emergencia que pase a estar activa, pero no se ha explicitado por el cliente cuáles son los criterios para hacer esta asignación.
 * Los asignadores de recursos pueden cambiar la asignación de recursos a una emergencia en cualquier momento.
 * Se utiliza un algoritmo de optimización de rutas para seleccionar qué operarios de unidades activas se asignan a una emergencia.
+* Habrá hasta 20 emergencias activas, las demás quedarán en espera en una cola de emergencias.
 
 Ejemplo de funcionamiento: un incendio pasa a ser una de las 20 emergencias activas, por lo que se le pre-asigna una determinada cantidad de recursos (por ejemplo, 2 camiones de bomberos y un coche de policía). Utilizando el algoritmo de optimización, se manda a los operarios de unidades activas más cercanos al incendio para que vayan a atenderlo. Más tarde, un asignador de recursos decide destinar un camión de bomberos más a esa emergencia, por lo que se vuelve a seleccionar al operario más cercano al lugar de la emergencia.
 
