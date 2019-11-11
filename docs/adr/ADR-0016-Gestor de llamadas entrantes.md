@@ -1,6 +1,6 @@
 # Gestor de llamadas entrantes
 
-* Status: Proposed.
+* Status: Discused.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-11-11
 
@@ -28,6 +28,9 @@ El Subsistema de Detección de Emergencias necesita un gestor de llamadas entran
 ### Cons
 * Se necesita tener disponibles a 20 operarios que respondan las llamadas.
 * Se necesita una cola de llamadas.
+
+## Note
+* Los ASC consideran que la decisión debería ser aprobada.
 
 ## Links
 * [ADR-0011]-(0011-Subsistema de detección de emergencias.md)
