@@ -1,6 +1,6 @@
 # Módulo de traducción: Microsoft Azure Translator Text API
 
-* Status: Proposed.
+* Status: Accepted.
 * Deciders: Noelia Martínez (ASC), Óscar Rivas (ASC).
 * Date: 2019-11-11
 
@@ -14,6 +14,7 @@ Fuente [https://docs.microsoft.com/es-es/azure/cognitive-services/translator/]
 * RF016.1: Módulo de traducción
 
 ## Decision Outcome
+* El Sistema de Comunicaciones Internacionales contará con un Módulo de traducción textual simultánea que traducirá los mensajes entrantes y salientes al idioma correspondiente de manera fiel y rápida.
 
 ## Pros and Cons of the Options
 
