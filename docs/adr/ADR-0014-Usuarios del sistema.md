@@ -1,6 +1,6 @@
 # Usuarios del sistema
 
-* Status: Proposed.
+* Status: Accepted.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-11-11
 
@@ -38,5 +38,5 @@ Se necesita definir qué funciones y permisos tiene cada usuario.
 ## Links
 
 * [ADR-0011]-(0011-Subsistema de detección de emergencias.md)
-* [ADR-0012]-(0011-Subsistema de llamadas externas.md)
-* [ADR-0013]-(0011-Subsistema de asignación de recursos.md)
+* [ADR-0012]-(0012-Subsistema de llamadas externas.md)
+* [ADR-0013]-(0013-Subsistema de asignación de recursos.md)
