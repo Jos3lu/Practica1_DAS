@@ -1,6 +1,6 @@
 # Módulo de traducción: Google Cloud Translation
 
-* Status: Proposed.
+* Status: Rejected.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-11-11
 
@@ -31,3 +31,5 @@ Fuente [https://cloud.google.com/translate/]
 
 ## Links
 * [ADR-0015]-(0015-Sistema de comunicaciones internacionales.md)
+* [ADR-0020]-(0020-Translator Text API.md) Alternativa aceptada propuesta por los ASC
+
