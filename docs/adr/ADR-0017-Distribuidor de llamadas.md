@@ -1,6 +1,6 @@
 # Distribuidor de llamadas
 
-* Status: Proposed.
+* Status: Discused.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-11-11
 
@@ -23,6 +23,9 @@ El Gestor de Llamadas Entrantes necesita un sistema que distribuya las llamadas 
 * Se distribuirán las llamadas entrantes entre los operarios disponibles de manera eficiente.
 
 ### Cons
+
+## Note
+* Los ASC sugieren que se apruebe esta decisión
 
 ## Links
 
