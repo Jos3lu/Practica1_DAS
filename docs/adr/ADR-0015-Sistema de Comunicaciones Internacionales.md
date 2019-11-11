@@ -1,6 +1,6 @@
 # Sistema de Comunicaciones Internacionales
 
-* Status: Proposed.
+* Status: Discused.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-11-11
 
@@ -29,6 +29,10 @@ A partir de estas comunicaciones se crean y actualizan emergencias.
 
 ### Cons
 * El SCE se vuelve más complejo y habría que destinar recursos a atender emergencias internacionales que puedan surgir.
+
+## Note 
+* Los ASC recuerdan que para mantener estas conexiones internacionales habría que contratar y conectarse a una red de telecomunicaciones internacional, lo que incrementaría significativamente el coste del servicio.
+* De igual manera, también resulta conveniente recordar que un módulo de traducción textual podría incrementar también los costes.
 
 ## Links
 
