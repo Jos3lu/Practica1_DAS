@@ -1,6 +1,6 @@
 # Gestor de llamadas entrantes
 
-* Status: Discused.
+* Status: Accepted.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-11-11
 
