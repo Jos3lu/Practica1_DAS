@@ -1,6 +1,6 @@
 # Patrón Observer para suscribirse a noticias
 
-* Status: Proposed.
+* Status: Rejected.
 * Deciders: Diego Montoto, Guillermo Martín
 * Date: 2019-11-12
 
@@ -28,4 +28,4 @@
 * El patrón Observer se implementa principalmente de forma síncrona, es decir, el sujeto llama al método apropiado de todos sus observadores cuando ocurre algún evento. Esto puede ser perjudicial en el caso de que el usuario esté en medio de un proceso crítico.
 
 ## Links
-[ADR-0026]-(0026-Publish Subscribe.md), alternativa
+[ADR-0026]-(0026-Publish Subscribe.md), alternativa seleccionada
