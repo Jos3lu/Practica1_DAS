@@ -1,6 +1,6 @@
 # Uso de patrón Facade
 
-* Status: Proposed.
+* Status: Accepted.
 * Deciders: Noelia Martínez (ASC), Óscar Rivas (ASC).
 * Date: 2019-11-12
 
