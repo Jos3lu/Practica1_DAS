@@ -1,5 +1,5 @@
 # Sensores
-* Status: Proposed.
+* Status: Discused.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-11-12
 
@@ -27,6 +27,9 @@
 
 ### Cons
 * Los sensores son componentes hardware que tienen que someterse a un constante mantenimiento.
+
+## Note
+* Los ASC sugieren que se apruebe esta decisión, pero explicando mejor la interfaz de sensor genérica.
 
 ## Links
 
