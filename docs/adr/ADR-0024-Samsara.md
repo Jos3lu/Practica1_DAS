@@ -1,6 +1,6 @@
 # Algoritmo de planificación de rutas: Samsara
 
-* Status: Proposed.
+* Status: Rejected.
 * Deciders: Noelia Martínez (ASC), Óscar Rivas (ASC).
 * Date: 2019-11-12
 
@@ -32,3 +32,4 @@
 ## Links
 
 * [ADR-0019]-(0019-Asignación de recursos disponibles.md)
+* [ADR-0021]-(0021-Google Maps Platform.md), opción elegida finalmente.
