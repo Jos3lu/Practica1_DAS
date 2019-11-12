@@ -1,6 +1,6 @@
 # Patrón Publish-Subscribe para suscribirse a noticias
 
-* Status: Discused.
+* Status: Accepted.
 * Deciders: Diego Montoto, Guillermo 
 * Date: 2019-11-12
 
