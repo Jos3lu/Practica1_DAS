@@ -1,6 +1,6 @@
 # Patrón Factory Method para tener una interfaz única
 
-* Status: Discused.
+* Status: Accepted.
 * Deciders: Diego Montoto, Guillermo Martín
 * Date: 2019-11-12
 
