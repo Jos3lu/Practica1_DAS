@@ -1,6 +1,6 @@
 # Coordinación con UME y Policía
 
-* Status: Proposed.
+* Status: Discused.
 * Deciders: Diego Montoto, Guillermo Martín
 * Date: 2019-11-12
 
@@ -20,8 +20,13 @@
 
 ### Pros
 * La coordinación con la policía y UME puede facilitar la gestión de emergencias.
+* La solución de cifrado de radio universal DSP 9000 funciona con la mayoría de las marcas y modelos, y se superpone imperceptiblemente con las redes preexistentes para brindar seguridad punto a punto rentable y de primera calidad.
 
 ### Cons
 * El sistema es más complejo y se necesitarán recursos para realizar de manera efectiva esta coordinación.
+* Se depende de un sistema de cifrado externo.
+
+## Note
+* Los ASC consideramos que la decisión debería ser aprobada.
 
 ## Links
