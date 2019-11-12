@@ -1,6 +1,6 @@
 # Algoritmo de planificación de rutas: Google Maps Platform
 
-* Status: Proposed.
+* Status: Accepted.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-11-12
 
@@ -14,6 +14,7 @@
 * RF004: Optimización de rutas
 
 ## Decision Outcome
+* Se contará con un algoritmo de optimización de rutas que calculará la ruta más corta entre dos puntos de manera rápida y eficiente.
 
 ## Pros and Cons of the Options
 
