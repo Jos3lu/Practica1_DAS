@@ -1,6 +1,6 @@
 # Patrón Abstract Factory para tener una interfaz única
 
-* Status: Proposed.
+* Status: Rejected.
 * Deciders: Diego Montoto, Guillermo 
 * Date: 2019-11-12
 
