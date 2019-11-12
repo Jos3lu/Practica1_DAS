@@ -1,7 +1,8 @@
 # Subsistema de asignación de recursos
+
 * Status: Discused.
-* Deciders: Diego Montoto, Guillermo Martín.
-* Date: 2019-11-09
+* Deciders: Noelia Martínez, Óscar Rivas.
+* Date: 2019-11-09 [Act. 2019-11-12]
 
 ## Context and Problem Statement
 
