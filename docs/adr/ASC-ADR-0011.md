@@ -1,8 +1,8 @@
 # Subsistema de detección de emergencias
 
-* Status: Proposed.
-* Deciders: Diego Montoto, Guillermo Martín.
-* Date: 2019-11-09
+* Status: Discused.
+* Deciders: Noelia Martínez, Óscar Rivas.
+* Date: 2019-11-09 [Act. 2019-11-12]
 
 ## Context and Problem Statement
 
