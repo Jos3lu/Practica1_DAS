@@ -1,5 +1,5 @@
 # Sensores
-* Status: Discused.
+* Status: Accepted.
 * Deciders: Diego Montoto, Guillermo Martín.
 * Date: 2019-11-12
 
@@ -23,7 +23,7 @@
 ## Pros and Cons of the Options
 
 ### Pros
-* Que cada sensor herede de una clase genérica facilita la escalabilidad: se podrán añadir más sensores y de más tipos, cada uno con su driver.
+* Escalabilidad: se podrán añadir más sensores y de más tipos, cada uno con su driver.
 
 ### Cons
 * Los sensores son componentes hardware que tienen que someterse a un constante mantenimiento.
