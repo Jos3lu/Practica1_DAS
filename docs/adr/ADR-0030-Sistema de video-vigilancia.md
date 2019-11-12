@@ -1,6 +1,6 @@
 # Sistema de video-vigilancia
 
-* Status: Proposed.
+* Status: Discused.
 * Deciders: Diego Montoto, Guillermo Martín
 * Date: 2019-11-12
 
@@ -25,6 +25,9 @@
 ### Cons
 * El mantenimiento del sistema se dificulta.
 * El coste del servicio se incrementa.
+
+## Note
+* Los ASC consideramos que la decisión debería ser aceptada.
 
 ## Links
 * [ADR-0011]-(0011-Subsistema de detección de emergencias.md).
