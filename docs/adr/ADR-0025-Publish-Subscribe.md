@@ -1,6 +1,6 @@
 # Patrón Publish-Subscribe para suscribirse a noticias
 
-* Status: Proposed.
+* Status: Discused.
 * Deciders: Diego Montoto, Guillermo 
 * Date: 2019-11-12
 
@@ -29,4 +29,8 @@
 * Manejo de suscripciones. La infraestructura de mensajería debe proporcionar mecanismos que los consumidores puedan usar para suscribirse o darse de baja de los canales disponibles.
 * Seguridad. La conexión a cualquier canal de mensajes debe estar restringida por la política de seguridad para evitar escuchas de usuarios o aplicaciones no autorizados.
 
+## Note
+* Los ASC sugieren que se acepte esta decisión y se rechace la decisión 0026-Patrón Observer. Consideramos que se ajusta más a los requerimientos del sistema principalmente porque que el sistema necesita ser escalable y con bajo acoplamiento entre componentes.
+
 ## Links
+[ADR-0026]-(0026-Patrón Observer.md), alternativa contemplada.
