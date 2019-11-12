@@ -1,6 +1,6 @@
 # Coordinación con UME y Policía
 
-* Status: Discused.
+* Status: Accepted.
 * Deciders: Diego Montoto, Guillermo Martín
 * Date: 2019-11-12
 
